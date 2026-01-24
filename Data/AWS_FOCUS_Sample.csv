@@ -1,5 +1,5 @@
-ChargeDescription	BilledCost	ServiceName	Environment	BillingPeriodStart
-Compute: ec2 t3.medium	45.8	AmazonEC2	Production	1/24/2026
-Storage: s3 standard	12.15	AmazonS3	Production	1/24/2026
-Database: rds db.t3.micro	18.5	AmazonRDS	Development	1/24/2026
-Networking: Data Transfer	4.2	AmazonEC2	Production	1/24/2026
+ChargeDescription,BilledCost,ServiceName,Environment,BillingPeriodStart
+Compute: ec2 t3.medium,45.8,AmazonEC2,Production,2026-01-24
+Storage: s3 standard,12.15,AmazonS3,Production,2026-01-24
+Database: rds db.t3.micro,18.5,AmazonRDS,Development,2026-01-24
+Networking: Data Transfer,4.2,AmazonEC2,Production,2026-01-24
