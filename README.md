@@ -1,5 +1,7 @@
 # Multi-Cloud FOCUS 1.3 Governance Ledger ☁️💰
 
+![Project #2 Dashboard](dashboard_preview.png)
+
 **Role Positioning:** AI FinOps Lead | Platform Architect  
 **Salary Target:** $10,500 – $15,000+ Tier
 
