@@ -1,6 +1,7 @@
 # Multi-Cloud FOCUS 1.3 Governance Ledger ☁️💰
 
-[![Medium Article](https://medium.com/@jeyaprakashiofficial/beyond-the-spreadsheet-building-a-multi-cloud-finops-ledger-with-focus-1-3-52208fe94364)](MEDIUM_LINK_HERE)
+
+[![Medium Article](https://img.shields.io/badge/Read%20the%20Technical%20Story-Medium-black?logo=medium)](https://medium.com/@jeyaprakashiofficial/beyond-the-spreadsheet-building-a-multi-cloud-finops-ledger-with-focus-1-3-52208fe94364)
 
 ![Project #2 Dashboard](dashboard/dashboard_preview.png)
 
@@ -40,3 +41,8 @@ The dashboard tracks a high-risk "Development Lab" with the following automated 
 * `/Dashboard/`: .PBIT Template file for the 1600x900 canvas.
 * `/Data/`: Mock FOCUS 1.3 normalized datasets for AWS, Azure, and Snowflake.
 * `/Automation/`: Logic App workflow definitions (JSON).
+
+
+## 🔗 Links & References
+* **Technical Article:** [Detailed Architectural Breakdown on Medium](https://medium.com/@jeyaprakashiofficial/beyond-the-spreadsheet-building-a-multi-cloud-finops-ledger-with-focus-1-3-52208fe94364)
+* **LinkedIn:** [Connect for Global Remote Opportunities](YOUR_LINKEDIN_LINK_HERE)
