@@ -45,4 +45,4 @@ The dashboard tracks a high-risk "Development Lab" with the following automated 
 
 ## 🔗 Links & References
 * **Technical Article:** [Detailed Architectural Breakdown on Medium](https://medium.com/@jeyaprakashiofficial/beyond-the-spreadsheet-building-a-multi-cloud-finops-ledger-with-focus-1-3-52208fe94364)
-* **LinkedIn:** [Connect for Global Remote Opportunities](YOUR_LINKEDIN_LINK_HERE)
+* **LinkedIn:** [Connect for Global Remote Opportunities](www.linkedin.com/in/jeya-prakash-i-641aa83a7)
