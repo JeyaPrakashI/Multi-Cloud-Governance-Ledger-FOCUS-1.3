@@ -1,6 +1,6 @@
 # Multi-Cloud FOCUS 1.3 Governance Ledger ☁️💰
 
-[![Medium Article](https://img.shields.io/badge/Read%20the%20Technical%20Story-Medium-black?logo=medium)](YOUR_MEDIUM_LINK_HERE)
+[![Medium Article](https://medium.com/@jeyaprakashiofficial/beyond-the-spreadsheet-building-a-multi-cloud-finops-ledger-with-focus-1-3-52208fe94364)](MEDIUM_LINK_HERE)
 
 ![Project #2 Dashboard](dashboard/dashboard_preview.png)
 
