@@ -1,0 +1,21 @@
+{
+    "Project": "Project #2: Multi-Cloud FOCUS 1.3 Ledger",
+    "Component": "Automated Governance Engine",
+    "Trigger": {
+        "Source": "Azure Budget Alert",
+        "Threshold": 0.80,
+        "Currency": "USD"
+    },
+    "Action": {
+        "Type": "Logic-App-Stop-VM",
+        "Logic": "If Budget_Alert == True, then Deallocate Development_VMs",
+        "Status": "Verified @ $0.85 final spend"
+    },
+    "Documentation": [
+        "1. Navigate to Cost Management + Billing in Azure Portal.",
+        "2. Create a Budget with a $1.00 limit.",
+        "3. Set Actual Alert at 80% ($0.80).",
+        "4. Connect Action Group to Logic App: Logic-App-Stop-VM.",
+        "5. Automation triggers shutdown, halting costs at approximately $0.85."
+    ]
+}
