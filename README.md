@@ -1,5 +1,7 @@
 # Multi-Cloud FOCUS 1.3 Governance Ledger ☁️💰
 
+[![Medium Article](https://img.shields.io/badge/Read%20the%20Technical%20Story-Medium-black?logo=medium)](YOUR_MEDIUM_LINK_HERE)
+
 ![Project #2 Dashboard](dashboard/dashboard_preview.png)
 
 **Role Positioning:** AI FinOps Lead | Platform Architect  
