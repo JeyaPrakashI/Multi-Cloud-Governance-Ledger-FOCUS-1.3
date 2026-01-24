@@ -1,4 +1,4 @@
-ChargeDescription	BilledCost	ServiceName	Environment	BillingPeriodStart
-VM: Standard_B2s	0.75	Virtual Machines	Development	1/24/2026
-Storage: Managed Disk P10	0.08	Storage	Development	1/24/2026
-Networking: Static IP	0.02	Virtual Network	Development	1/24/2026
+ChargeDescription,BilledCost,ServiceName,Environment,BillingPeriodStart
+VM: Standard_B2s,0.75,Virtual Machines,Development,2026-01-24
+Storage: Managed Disk P10,0.08,Storage,Development,2026-01-24
+Networking: Static IP,0.02,Virtual Network,Development,2026-01-24
