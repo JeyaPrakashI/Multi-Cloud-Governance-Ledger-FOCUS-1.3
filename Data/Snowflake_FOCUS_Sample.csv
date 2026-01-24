@@ -1,4 +1,3 @@
 ChargeDescription,BilledCost,ServiceName,Environment,BillingPeriodStart
-Amazon EC2 Instance Usage,50.00,AmazonEC2,Production,2026-01-01
-Amazon RDS Database Instance,18.50,AmazonRDS,Development,2026-01-01
-Amazon S3 Standard Storage,12.15,AmazonS3,Production,2026-01-01
+Snowflake: Core Credits,210.00,Snowflake,Production,2026-01-24
+Snowflake: Cloud Services,45.00,Snowflake,Production,2026-01-24
