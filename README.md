@@ -6,7 +6,7 @@
 ![Project #2 Dashboard](dashboard/dashboard_preview.png)
 
 **Role Positioning:** AI FinOps Lead | Platform Architect  
-**Salary Target:** $10,500 – $15,000+ Tier
+**Salary Target:** $18,500 – $23,000+ Tier
 
 ## 📌 Executive Summary
 This project demonstrates a unified cloud financial ecosystem that normalizes billing data from **AWS, Azure, and Snowflake** into a single source of truth using the **FOCUS 1.3 Standard**. It features an automated governance layer that triggers self-healing protocols (auto-shutdown) when budget thresholds are breached.
