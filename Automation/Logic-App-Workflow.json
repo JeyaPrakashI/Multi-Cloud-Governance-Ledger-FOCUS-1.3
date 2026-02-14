@@ -1,5 +1,5 @@
 {
-    "Project": "Project #2: Multi-Cloud FOCUS 1.3 Ledger",
+    "Project": "Multi-Cloud FOCUS 1.3 Ledger",
     "Component": "Automated Governance Engine",
     "Trigger": {
         "Source": "Azure Budget Alert",
